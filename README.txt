@@ -1,0 +1,1 @@
+Projeto MVP de Licitações - reconstruído conforme especificações.

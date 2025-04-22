@@ -1,0 +1,1 @@
+// Componente de modal para histórico com linha do tempo

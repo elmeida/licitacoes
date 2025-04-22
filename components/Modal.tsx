@@ -1,0 +1,1 @@
+// Componente genérico de modal
